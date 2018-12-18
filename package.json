@@ -1,0 +1,47 @@
+{
+  "_from": "cordova-plugin-eposprinter",
+  "_id": "cordova-plugin-eposprinter@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-vLcBWZrukygIDQ+5UqSd5JYL7Ky7qBL94zzRvkCFYZ0JByIYm51joLeUZ+/qpD3nJY2F9CGQ+0byp3Di61PHIQ==",
+  "_location": "/cordova-plugin-eposprinter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-eposprinter",
+    "name": "cordova-plugin-eposprinter",
+    "escapedName": "cordova-plugin-eposprinter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-eposprinter/-/cordova-plugin-eposprinter-0.1.5.tgz",
+  "_shasum": "47cb4e4084c1dec3dc5cd6974fab3ccf18e05cac",
+  "_spec": "cordova-plugin-eposprinter",
+  "_where": "D:\\Users\\ashok\\Documents\\ashok",
+  "author": {
+    "name": "Code Alone"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-eposprinter",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for Epson ePOS SDK",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "ISC License, Copyright 2017 Code Alone",
+  "name": "cordova-plugin-eposprinter",
+  "version": "0.1.5"
+}
